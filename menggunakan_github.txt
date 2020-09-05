@@ -1,1 +1,2 @@
 hello ini adalah txt
+menambahkan text pertama
